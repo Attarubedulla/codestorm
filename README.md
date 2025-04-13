@@ -117,3 +117,10 @@ We welcome contributions to the Campus Bridge platform. Please read our contribu
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+<img width="1458" alt="Screenshot 2025-04-13 at 7 43 22 AM" src="https://github.com/user-attachments/assets/50bb199c-47a4-43c3-8f3b-e9ee516d0435" />
+<img width="1465" alt="Screenshot 2025-04-13 at 7 42 44 AM" src="https://github.com/user-attachments/assets/b86fe83b-7799-4d1c-87c3-b9dce837f9dd" />
+<img width="1438" alt="Screenshot 2025-04-13 at 7 43 01 AM" src="https://github.com/user-attachments/assets/282bf039-583a-4a73-a35d-0e9c83f74985" />
+
+
+
+
