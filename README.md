@@ -46,14 +46,41 @@ Our platform offers comprehensive features including:
 - Job Recommendation Engine: Discover tailored job opportunities based on your skills
 
 ## Tech Stack Used
-- **Frontend**: Next.js, React, TypeScript
-- **Backend**: Node.js, Express
-- **Database**: PostgreSQL
-- **AI Integration**: Gemini/GPT
-- **Authentication**: JWT, OAuth
-- **Real-time Features**: WebSocket
-- **Deployment**: Docker, AWS
-- **Version Control**: Git, GitHub
+- **Frontend**: 
+  - Next.js 14.2.28
+  - React 18.2.0
+  - TypeScript
+  - Tailwind CSS
+  - Framer Motion (animations)
+
+- **Backend**: 
+  - FastAPI (Python web framework)
+  - Uvicorn (ASGI server)
+  - SQLAlchemy (ORM)
+  - PostgreSQL (database)
+  - Redis (caching and session management)
+  - Celery (background tasks)
+
+- **AI Integration**: 
+  - Gemini/GPT API
+  - Custom ML models
+
+- **Authentication**: 
+  - JWT with Python-Jose
+  - Passlib with bcrypt
+  - NextAuth.js (frontend)
+
+- **Real-time Features**: 
+  - Socket.IO
+  - WebSockets
+
+- **Code Editor**: 
+  - Monaco Editor (VS Code's editor)
+
+- **Data Visualization**:
+  - Chart.js
+  - React-Chartjs-2
+  - Recharts
 
 ## Project Explanation
 Campus Bridge is designed as a comprehensive solution for modern educational institutions. The platform consists of three main components:
