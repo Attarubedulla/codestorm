@@ -12,6 +12,39 @@ The modern educational landscape requires a unified platform that can seamlessly
 ## Abstract / Problem Description
 Campus Bridge addresses the critical need for an integrated learning environment that combines academic course management with practical coding skill development. The platform serves as a unified solution for universities, offering a Learning Management System (LMS) for academic courses alongside a robust coding development environment. Key features include real-time code assistance, collaborative programming spaces, and AI-powered learning tools. The system aims to enhance student engagement, improve learning outcomes, and prepare students for both academic success and professional careers in technology. By integrating these traditionally separate domains, Campus Bridge provides a more efficient, engaging, and effective learning experience for modern students.
 
+## Application Preview
+
+### Coding Practice Platform
+Campus Bridge offers a robust coding practice environment with:
+- Over 10K+ coding challenges across multiple difficulty levels
+- Support for 15+ programming languages
+- Weekly coding contests to compete with students from top universities
+- Real-time code feedback and performance metrics
+
+Example coding practice platform:
+```
+function twoSum(nums, target) {
+  // Your code here
+}
+
+function inOrderTraversal(root) {
+  // Your code here
+}
+
+function knapsack(weights, values, capacity) {
+  // Your code here
+}
+```
+
+### Features Overview
+Our platform offers comprehensive features including:
+- Personalized Learning Paths: Custom curriculum based on your goals and learning pace
+- Code Editor with Real-Time Feedback: Write, test, and debug code with instant suggestions
+- AI-Powered Code Assistant: Get personalized help from an AI that understands your code
+- Smart Assessments: Adaptive quizzes and tests based on your performance
+- Certificate Generation: Earn verified certificates upon course completion
+- Job Recommendation Engine: Discover tailored job opportunities based on your skills
+
 ## Tech Stack Used
 - **Frontend**: Next.js, React, TypeScript
 - **Backend**: Node.js, Express
