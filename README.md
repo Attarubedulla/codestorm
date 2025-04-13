@@ -15,7 +15,7 @@ Campus Bridge addresses the critical need for an integrated learning environment
 ## Tech Stack Used
 - **Frontend**: Next.js, React, TypeScript
 - **Backend**: Node.js, Express
-- **Database**: PostgreSQL
+- **Database**: PostgreSQL,MongoDB
 - **AI Integration**: Gemini/GPT
 - **Authentication**: JWT, OAuth
 - **Real-time Features**: WebSocket
